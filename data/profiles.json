@@ -1,0 +1,102 @@
+[
+  {
+    "username": "Rani",
+    "followers": 5,
+    "following": 300,
+    "posts": 1,
+    "account_age_days": 3,
+    "bio":"to earn money fast click on the link below",
+    "profile_image": "profiles/user1.jpg",
+    "is_fake": 1
+  },
+  {
+    "username": "Ramya",
+    "followers": 8,
+    "following": 420,
+    "posts": 0,
+    "account_age_days": 2,
+    "bio":"Work from home and earn daily income",
+    "profile_image": "profiles/user2.jpg",
+    "is_fake": 1
+  },
+  {
+    "username": "Himilda",
+    "followers": 450,
+    "following": 200,
+    "posts": 95,
+    "account_age_days": 850,
+    "bio":"Sharing moments from every day life",
+    "profile_image": "profiles/user3.jpg",
+    "is_fake": 0
+  },
+  {
+    "username": "Komathi",
+    "followers": 1200,
+    "following": 300,
+    "posts": 340,
+    "account_age_days": 1500,
+    "bio":"Nature|Peace|positivity",
+    "profile_image": "profiles/user4.jpg",
+    "is_fake": 0
+  },
+  {
+    "username": "Riya",
+    "followers": 2000,
+    "following": 3000,
+    "posts": 340,
+    "account_age_days": 1500,
+    "bio":"college student and passionate about technology",
+    "profile_image": "profiles/user5.jpg",
+    "is_fake": 0
+  },
+  {
+    "username": "Kannan",
+    "followers": 120,
+    "following": 300,
+    "posts": 30,
+    "account_age_days": 150,
+    "bio":"Fittness | healthy life| daily workout",
+    "profile_image": "profiles/user6.jpg",
+    "is_fake": 0
+  },
+  {
+    "username": "John",
+    "followers": 800,
+    "following": 500,
+    "posts": 340,
+    "account_age_days": 1500,
+    "bio":"music, movie, travel",
+    "profile_image": "profiles/user7.jpg",
+    "is_fake": 0
+  },
+  {
+    "username": "Raja",
+    "followers": 380,
+    "following": 30,
+    "posts": 0,
+    "account_age_days": 15,
+    "bio":"click link in bio to get rich fast",
+    "profile_image": "profiles/user8.jpg",
+    "is_fake": 1
+  },
+  {
+    "username": "Mackjoe",
+    "followers": 101,
+    "following": 33,
+    "posts": 3,
+    "account_age_days": 13,
+    "bio":"Official support account | contact us",
+    "profile_image": "profiles/user9.jpg",
+    "is_fake": 1
+  },
+  {
+    "username": "Ankith",
+    "followers": 400,
+    "following": 30,
+    "posts": 2,
+    "account_age_days": 10,
+    "bio":"Follow me to get free followers",
+    "profile_image": "profiles/user10.jpg",
+    "is_fake": 1
+  }
+]
